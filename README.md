@@ -5,28 +5,28 @@ I am a Full Stack Developer passionate about technology and innovation. With 2 y
 
 
 ## 🛠️ Tech Stack:
-    ### Frontend
-    - React.js
-    - Next.js
-    - TypeScript
-    - JavaScript
-    - HTML & CSS
-    - Tailwind CSS
-    - Bootstrap
-  
-    ### Backend
-    - Python
-    - Django
-    - PHP
-    - RESTful APIs
-  
-    ### Database
-    - MySQL
-  
-    ### Cloud & DevOps
-    - AWS (EC2, Lambda, CodeDeploy, CloudWatch, S3)
-    - Docker
-    - Git & GitHub Actions
+### Frontend
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- HTML & CSS
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Python
+- Django
+- PHP
+- RESTful APIs
+
+### Database
+- MySQL
+
+### Cloud & DevOps
+- AWS (EC2, Lambda, CodeDeploy, CloudWatch, S3)
+- Docker
+- Git & GitHub Actions
 
 
 ## 📌 Featured Projects:
