@@ -1,11 +1,11 @@
-## Hi there, I'm Lucas Candiago 👋
+# Hi there, I'm Lucas Candiago 👋
 
-# 🚀 About Me:
+## 🚀 About Me:
 I am a Full Stack Developer passionate about technology and innovation. With 2 years of experience, I specialize in building modern, scalable, and optimized web applications using React, Next.js, TypeScript, and Python. I also have experience with AWS and DevOps, ensuring high performance and efficient infrastructure for projects.
 
 
-# 🛠️ Tech Stack:
-  # Frontend
+## 🛠️ Tech Stack:
+  ### Frontend
   - React.js
   - Next.js
   - TypeScript
@@ -14,21 +14,21 @@ I am a Full Stack Developer passionate about technology and innovation. With 2 y
   - Tailwind CSS
   - Bootstrap
 
-  # Backend
+  ### Backend
   - Python
   - Django
   - PHP
   - RESTful APIs
 
-  # Database
+  ### Database
   - MySQL
 
-  # Cloud & DevOps
+  ### Cloud & DevOps
   - AWS (EC2, Lambda, CodeDeploy, CloudWatch, S3)
   - Docker
   - Git & GitHub Actions
 
 
-# 📌 Featured Projects:
+## 📌 Featured Projects:
 - 🏆 mxqinsight.com.br – Corporate website built with Next.js, achieving top SEO score on Google.
 - 📊 insights.mxqinsight.com.br – Corporate platform with dynamic charts about the chemical industry (Next.js + Django).
