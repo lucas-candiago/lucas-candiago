@@ -30,5 +30,5 @@ I am a Full Stack Developer passionate about technology and innovation. With 2 y
 
 
 ## 📌 Featured Projects:
-- 🏆 mxqinsight.com.br – Corporate website built with Next.js, achieving top SEO score on Google.
-- 📊 insights.mxqinsight.com.br – Corporate platform with dynamic charts about the chemical industry (Next.js + Django).
+- 🏆 [mxqinsight.com.br](https://mxqinsight.com.br/) – Corporate website built with Next.js, achieving top SEO score on Google.
+- 📊 [insights.mxqinsight.com.br](https://insight.mxqinsight.com.br/) – Corporate platform with dynamic charts about the chemical industry (Next.js + Django).
