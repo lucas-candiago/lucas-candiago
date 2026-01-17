@@ -1,11 +1,11 @@
 # Hi there, I'm Lucas Candiago 👋
 
-## 🚀 About Me
-I am a **Full Stack Developer** passionate about technology and innovation. With 2+ years of experience, I specialize in building modern, scalable, and optimized web applications using **React**, **Next.js**, **TypeScript**, and **Python**. I also have experience with **AWS** and **DevOps**, ensuring high performance and efficient infrastructure for projects.
+## About Me
+I am a **Full Stack Developer** passionate about technology and innovation. With 3+ years of experience, I specialize in building modern, scalable, and optimized web applications using **React**, **Next.js**, **TypeScript**, and **Python**. I also have experience with **AWS** and **DevOps**, ensuring high performance and efficient infrastructure for projects.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -34,26 +34,25 @@ I am a **Full Stack Developer** passionate about technology and innovation. With
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🏦 [Finance App](https://github.com/lucascandiago/finance-app)
+### [Finance App](https://github.com/lucascandiago/finance-app)
 **Personal Finance Management System**
 - Full-stack SPA with **Next.js 15**, **TypeScript**, **PostgreSQL**, and **Tailwind CSS**
 - Features: Expense tracking, budget management, recurring subscriptions, interactive analytics
 - **Tech Stack**: React 18, Next.js App Router, JWT Authentication, Recharts, bcrypt
-- **Highlights**: 100% TypeScript coverage, comprehensive documentation, production-ready
-- 📊 Real-time dashboard with charts and month-over-month comparisons
-- 🔐 Secure JWT authentication with bcrypt password hashing
-- 💵 Smart budget alerts and category-specific tracking
+- **Highlights**: 100% TypeScript coverage, production-ready
+- Real-time dashboard with charts and month-over-month comparisons
+- Smart budget alerts and category-specific tracking
 
-### 🏆 [MXQ Insight - Corporate Website](https://mxqinsight.com.br/)
+### [MXQ Insight - Corporate Website](https://mxqinsight.com.br/)
 **High-Performance SEO-Optimized Corporate Site**
 - Built with **Next.js** for optimal performance and SEO
 - Achieved **top Google SEO score** with perfect Lighthouse metrics
 - Responsive design with modern UI/UX
 - **Tech Stack**: Next.js, React, Tailwind CSS
 
-### 📊 [MXQ Insight - Analytics Platform](https://insight.mxqinsight.com.br/)
+### [MXQ Insight - Analytics Platform](https://insight.mxqinsight.com.br/)
 **Data Visualization Platform for Chemical Industry**
 - Corporate platform with **dynamic interactive charts**
 - Real-time data visualization about the chemical industry
@@ -62,49 +61,33 @@ I am a **Full Stack Developer** passionate about technology and innovation. With
 
 ---
 
-## 💼 Professional Skills
+## Professional Skills
 
 ### Development
-- ✅ Building scalable **SPAs** with React and Next.js
-- ✅ **RESTful API** design and integration
-- ✅ Creating **reusable component libraries**
-- ✅ Performance optimization and **UX** improvements
-- ✅ **TypeScript** for type-safe development
-- ✅ State management (Context API, Hooks)
+- Building scalable **SPAs** with React and Next.js
+- **RESTful API** design and integration
+- Creating **reusable component libraries**
+- Performance optimization and **UX** improvements
+- **TypeScript** for type-safe development
+- State management (Context API, Hooks)
 
 ### Collaboration
-- ✅ Working with **design and backend teams**
-- ✅ Code review and technical decision-making
-- ✅ **Git workflow** and version control
-- ✅ Agile methodologies
-- ✅ Technical documentation
-- ✅ **Technical English** proficiency
+- Working with **design and backend teams**
+- Code review and technical decision-making
+- **Git workflow** and version control
+- Agile methodologies
+- Technical documentation
+- **Technical English** proficiency
 
 ### DevOps & Cloud
-- ✅ **AWS** infrastructure (EC2, Lambda, S3, CloudWatch)
-- ✅ CI/CD pipelines with **GitHub Actions**
-- ✅ **Docker** containerization
-- ✅ Deployment automation
-- ✅ Monitoring and logging
+- **AWS** infrastructure (EC2, Lambda, S3, CloudWatch)
+- CI/CD pipelines with **GitHub Actions**
+- **Docker** containerization
+- Deployment automation
+- Monitoring and logging
 
-## 📫 Get in Touch
+## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-teixeira-profile/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucas-candiago)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.candiago@gmail.com)
-
----
-
-## 🌟 Currently
-- 🔭 Working on personal projects to showcase my full-stack capabilities
-- 🌱 Learning advanced TypeScript patterns and microservices architecture
-- 👯 Looking to collaborate on open-source projects
-- ⚡ Fun fact: I love optimizing code and achieving perfect Lighthouse scores!
-
----
-
-<div align="center">
-  
-**"Building the future, one commit at a time"** 🚀
-
-</div>
